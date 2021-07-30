@@ -1,1 +1,1 @@
-"#kaggle_train_jpg" 
+Dataset for Kaggle Challenge
